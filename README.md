@@ -6,7 +6,7 @@
 <h2 align="left">About me</h2>
 
 
-<p align="left">I like to explore new technologies and develop software solutions.<br>I have completed my graduation in <br>Bachelor in Computer Applications and pursuing MSc. in Computer Science along with expertise in web development and programming, seeking opportunities to leverage my skills in a professional setting.<br><br>You can contact me at gobindatantubay.gt@gmail.com</p>
+<p align="left">I like to explore new technologies and develop software solutions.<br>I have completed my graduation in <br>Bachelor in Computer Applications and pursuing MSc. in Computer Science along with expertise in web development and programming, seeking opportunities to leverage my skills in a professional setting.<br><br>You can contact me at</p> gobindatantubay.gt@gmail.com
 
 
 <h2 align="left">Skills</h2>
